@@ -1,37 +1,56 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
+<h1 align="center">
+Zustand | @diogodev_
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/diogorochaa" target="_blank">Author</a>
 </p>
 
+<br>
 
-## 💻 Projeto
+## :dart: About
 
-Redux + Zustand
+Esse projeto foi desenvolvido para fins de estudo do zustando com React Js no curso do ignite
 
-## 📝 Licença
+## :rocket: Technologies
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+The following tools were used in this project:
 
----
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind](https://tailwindcss.com/)
 
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
+## :white_check_mark: Requirements
 
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-<!--START_SECTION:footer-->
+## :checkered_flag: Starting
 
-<br />
-<br />
+```bash
+# Clone this project
+$ git clone https://github.com/diogorochaa/zustand-ignite-react.git
 
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
+# Access
+$ cd zustand-ignite-react
 
-<!--END_SECTION:footer-->
+# Install dependencies
+$ npm install
+
+# Run the project
+$ npm run dev
+```
+
+## :memo: License
+
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+
+Made with :heart: by <a href="https://github.com/diogorochaa" target="_blank">Diogo</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
